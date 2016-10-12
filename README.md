@@ -14,7 +14,7 @@ A simple application that finds words generated from given scrambled letters. Wo
 
 ## Authors
 
-* **Nikos Bampamis** - [Nik-Bam](https://github.com/Nik-Bam)
+* **Nikos Bampamis** - [nikbam](https://github.com/nikbam)
 
 ## License
 
